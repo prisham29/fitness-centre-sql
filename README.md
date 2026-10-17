@@ -54,3 +54,19 @@ mysql -u root -p < queries.sql
 The original coursework was completed independently in 2023 without AI coding assistance. This **portfolio adaptation** was subsequently revised with AI assistance to correct execution issues, add fictional seed data, improve constraints and documentation, and make the project easier to reproduce. The original submission is not included.
 
 All names, phone numbers, email addresses and bank details in the sample dataset are fictional. This is an educational demonstration, not a production payment system.
+
+Database Testing
+
+The database was tested locally using MySQL Workbench.
+
+Testing included:
+
+Creating seven relational tables with primary and foreign key constraints.
+
+Inserting fictional sample records.
+
+Executing SQL queries involving joins, subqueries, filtering and aggregation.
+
+Creating a SQL view to display trainer and workout information.
+
+The project is based on independently completed university SQL coursework from 2023, for which I achieved 97%. The portfolio version includes subsequent corrections and improvements.
